@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Devops Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>20 Devops projects </b>
+  - [Running a WebApp in a local environment](https://github.com/Ndzenyuy/project-1_2-Local-deployment_of_web_app)
+  - [Migrating WebApp to AWS with Lift-and-shift migration strategy](https://github.com/Ndzenyuy/project-3_Aws_lift_and_shift)
 
 
 <h2>📺 Certifications and Badges </h2>
