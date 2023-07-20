@@ -3,8 +3,9 @@
 <h2>👨‍💻 Devops Projects:</h2>
 
 - <b>20 Devops projects </b>
-  - [Running a WebApp in a local environment](https://github.com/Ndzenyuy/project-1_2-Local-deployment_of_web_app)
   - [Migrating WebApp to AWS with Lift-and-shift migration strategy](https://github.com/Ndzenyuy/project-3_Aws_lift_and_shift)
+  - [Running a WebApp in a local environment](https://github.com/Ndzenyuy/project-1_2-Local-deployment_of_web_app)
+  
 
 
 <h2>📺 Certifications and Badges </h2>
