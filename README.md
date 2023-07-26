@@ -3,6 +3,7 @@
 <h2>👨‍💻 Devops Projects:</h2>
 
 - <b>20 Devops projects </b>
+  - [Project 5: Continues integration with Jenkins, Sonarqube, Slack and Nexus](https://github.com/Ndzenyuy/Project_5-CI-with-jenkins)
   - [Project 4: Refactoring Webapp to use AWS native services](https://github.com/Ndzenyuy/Project-4-AWS-Refactor)
   - [Project 3: Migrating WebApp to AWS with Lift-and-shift migration strategy](https://github.com/Ndzenyuy/project-3_Aws_lift_and_shift)
   - [Project 1&2: Running a WebApp in a local environment](https://github.com/Ndzenyuy/project-1_2-Local-deployment_of_web_app)
