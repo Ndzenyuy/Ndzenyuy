@@ -3,7 +3,7 @@
 <h2>👨‍💻 Devops Projects:</h2>
 
 - <b>20 Devops projects </b>
-  - [Project 8: Continues Integration on AWS]()
+  - [Project 8: Continues Integration on AWS](https://github.com/Ndzenyuy/Project-8_Continues-Integration-with-AWS)
   - [Project 7: Ecommerce Webapp with Docker](https://github.com/Ndzenyuy/Emart_webapp)
   - [Project 6: Containerization with Docker](https://github.com/Ndzenyuy/Project_6-Containerization)
   - [Project 5: Continues integration with Jenkins, Sonarqube, Slack and Nexus](https://github.com/Ndzenyuy/Project_5-CI-with-jenkins)
