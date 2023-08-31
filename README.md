@@ -3,6 +3,7 @@
 <h2>👨‍💻 Devops Projects:</h2>
 
 - <b> Real life Devops Projects </b>
+  - [Project 10: CICD pipeline on AWS]()
   - [Project 9: Continues Delivery of a Java WebApp](https://github.com/Ndzenyuy/Project_9-Continues-delivery-of-webapp)
   - [Project 8: Continues Integration on AWS](https://github.com/Ndzenyuy/Project-8_Continues-Integration-with-AWS)
   - [Project 7: Ecommerce Webapp with Docker](https://github.com/Ndzenyuy/Emart_webapp)
