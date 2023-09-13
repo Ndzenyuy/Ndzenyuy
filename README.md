@@ -3,6 +3,7 @@
 <h2>👨‍💻 Devops Projects:</h2>
 
 - <b> Real life Devops Projects </b>
+  - [Project 12: CICD Pipeline with Ansible and Jenkins](https://github.com/Ndzenyuy/Project_12-CICD_with-Ansible-and-Jenkins)
   - [Project 11: Infrastructure as Code with Ansible](https://github.com/Ndzenyuy/Project_11-IAAC-with-Ansible)
   - [Project 10: CICD pipeline on AWS](https://github.com/Ndzenyuy/Project_10-Continues-delivery-on-AWS)
   - [Project 9: Continues Delivery of a Java WebApp](https://github.com/Ndzenyuy/Project_9-Continues-delivery-of-webapp)
