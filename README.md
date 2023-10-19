@@ -33,3 +33,4 @@
 
 [linkedin]: www.linkedin.com/in/jones-ndzenyuy
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
