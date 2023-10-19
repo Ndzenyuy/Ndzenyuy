@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Visitor%20Count&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
-
 <h1>Hi, I'm Jones! <br/><a href="https://github.com/Ndzenyuy">Devops Engineer</a>, <a href="www.linkedin.com/in/jones-ndzenyuy">Solutions Architect</a>, Cloud Engineer
 
 <h2>👨‍💻 Devops Projects:</h2>
@@ -35,4 +33,4 @@
 
 [linkedin]: www.linkedin.com/in/jones-ndzenyuy
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Visitor%20Count&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
