@@ -3,6 +3,8 @@
 <h2>👨‍💻 Devops Projects:</h2>
 
 - <b> Real life Devops Projects </b>
+  - [Project 18: Netflix Clone on Jenkins+Kubernetes](https://github.com/Ndzenyuy/Project_18-NetFlix-Clone)
+  - [Project 17: Cloud deployment with Cloudformation]()
   - [Project 16: State management with Terraform in deploying a WebApp](https://github.com/Ndzenyuy/Project_16-Terraform-AWS.git)
   - [Project 15: Continues delivery of docker containers](https://github.com/Ndzenyuy/Project_15-Continues-delivery-of-docker-containers.git)
   - [Project 14: Web app on Kubernetes cluster](https://github.com/Ndzenyuy/Project_14-Webapp-on-Kubernetes)
