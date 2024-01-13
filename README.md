@@ -3,6 +3,7 @@
 <h2>👨‍💻 Devops Projects:</h2>
 
 - <b> Real life Devops Projects </b>
+  - [Project 20: CICD with Github actions ](https://github.com/Ndzenyuy/Project-20_Github-actions)
   - [Project 18: Netflix Clone on Jenkins+Kubernetes](https://github.com/Ndzenyuy/Project_18-NetFlix-Clone)
   - [Project 17: Cloud deployment with Cloudformation](https://github.com/Ndzenyuy/Project_17-Cloudformation-project)
   - [Project 16: State management with Terraform in deploying a WebApp](https://github.com/Ndzenyuy/Project_16-Terraform-AWS.git)
