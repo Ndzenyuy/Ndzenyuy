@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jones! <br/><a href="https://github.com/Ndzenyuy">Devops Engineer</a>, Cloud Engineer
+<h1>Hi, I'm Jones! <br/><a href="https://github.com/Ndzenyuy">Devops/Cloud Engineer</a>
 
 <h2>👨‍💻 Devops Projects:</h2>
 
