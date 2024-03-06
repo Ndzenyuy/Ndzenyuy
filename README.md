@@ -2,26 +2,26 @@
 
 <h2>👨‍💻 Devops Projects:</h2>
 
-- <b> Real life Devops Projects </b>
-  - [Project 20: GitOps Project with Kubernetes ](https://github.com/Ndzenyuy/Project-20_CICD-with-GitOps)
-  - [Project 19: CICD with Github actions ](https://github.com/Ndzenyuy/Project-20_Github-actions)
-  - [Project 18: Netflix Clone on Jenkins+Kubernetes](https://github.com/Ndzenyuy/Project_18-NetFlix-Clone)
-  - [Project 17: Cloud deployment with Cloudformation](https://github.com/Ndzenyuy/Project_17-Cloudformation-project)
-  - [Project 16: State management with Terraform in deploying a WebApp](https://github.com/Ndzenyuy/Project_16-Terraform-AWS.git)
-  - [Project 15: Continues delivery of docker containers](https://github.com/Ndzenyuy/Project_15-Continues-delivery-of-docker-containers.git)
-  - [Project 14: Web app on Kubernetes cluster](https://github.com/Ndzenyuy/Project_14-Webapp-on-Kubernetes)
-  - [Project 13: Hybrid Continues Delivery of web app](https://github.com/Ndzenyuy/Project_13-Hybrid-Continues-delivery)
-  - [Project 12: CICD Pipeline with Ansible and Jenkins](https://github.com/Ndzenyuy/Project_12-CICD_with-Ansible-and-Jenkins)
-  - [Project 11: Infrastructure as Code with Ansible](https://github.com/Ndzenyuy/Project_11-IAAC-with-Ansible)
-  - [Project 10: CICD pipeline on AWS](https://github.com/Ndzenyuy/Project_10-Continues-delivery-on-AWS)
-  - [Project 9: Continues Delivery of a Java WebApp](https://github.com/Ndzenyuy/Project_9-Continues-delivery-of-webapp)
-  - [Project 8: Continues Integration on AWS](https://github.com/Ndzenyuy/Project-8_Continues-Integration-with-AWS)
-  - [Project 7: Ecommerce Webapp with Docker](https://github.com/Ndzenyuy/Emart_webapp)
-  - [Project 6: Containerization with Docker](https://github.com/Ndzenyuy/Project_6-Containerization)
-  - [Project 5: Continues integration with Jenkins, Sonarqube, Slack and Nexus](https://github.com/Ndzenyuy/Project_5-CI-with-jenkins)
-  - [Project 4: Refactoring Webapp to use AWS native services](https://github.com/Ndzenyuy/Project-4-AWS-Refactor)
-  - [Project 3: Migrating WebApp to AWS with Lift-and-shift migration strategy](https://github.com/Ndzenyuy/project-3_Aws_lift_and_shift)
-  - [Project 1&2: Running a WebApp in a local environment](https://github.com/Ndzenyuy/project-1_2-Local-deployment_of_web_app)
+- <b> Devops Projects </b>
+  - [GitOps Project with Kubernetes ](https://github.com/Ndzenyuy/Project-20_CICD-with-GitOps)
+  - [CICD with Github actions ](https://github.com/Ndzenyuy/Project-20_Github-actions)
+  - [Netflix Clone on Jenkins+Kubernetes](https://github.com/Ndzenyuy/Project_18-NetFlix-Clone)
+  - [ Cloud deployment with Cloudformation](https://github.com/Ndzenyuy/Project_17-Cloudformation-project)
+  - [ State management with Terraform in deploying a WebApp](https://github.com/Ndzenyuy/Project_16-Terraform-AWS.git)
+  - [ Continues delivery of docker containers](https://github.com/Ndzenyuy/Project_15-Continues-delivery-of-docker-containers.git)
+  - [ Web app on Kubernetes cluster](https://github.com/Ndzenyuy/Project_14-Webapp-on-Kubernetes)
+  - [ Hybrid Continues Delivery of web app](https://github.com/Ndzenyuy/Project_13-Hybrid-Continues-delivery)
+  - [ CICD Pipeline with Ansible and Jenkins](https://github.com/Ndzenyuy/Project_12-CICD_with-Ansible-and-Jenkins)
+  - [ Infrastructure as Code with Ansible](https://github.com/Ndzenyuy/Project_11-IAAC-with-Ansible)
+  - [ CICD pipeline on AWS](https://github.com/Ndzenyuy/Project_10-Continues-delivery-on-AWS)
+  - [ Continues Delivery of a Java WebApp](https://github.com/Ndzenyuy/Project_9-Continues-delivery-of-webapp)
+  - [ Continues Integration on AWS](https://github.com/Ndzenyuy/Project-8_Continues-Integration-with-AWS)
+  - [ Ecommerce Webapp with Docker](https://github.com/Ndzenyuy/Emart_webapp)
+  - [ Containerization with Docker](https://github.com/Ndzenyuy/Project_6-Containerization)
+  - [ Continues integration with Jenkins, Sonarqube, Slack and Nexus](https://github.com/Ndzenyuy/Project_5-CI-with-jenkins)
+  - [ Refactoring Webapp to use AWS native services](https://github.com/Ndzenyuy/Project-4-AWS-Refactor)
+  - [ Migrating WebApp to AWS with Lift-and-shift migration strategy](https://github.com/Ndzenyuy/project-3_Aws_lift_and_shift)
+  - [ Running a WebApp in a local environment](https://github.com/Ndzenyuy/project-1_2-Local-deployment_of_web_app)
   
 
 
