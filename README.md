@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jones! <br/><a href="https://github.com/Ndzenyuy">Devops Engineer</a>, <a href="www.linkedin.com/in/jones-ndzenyuy">Solutions Architect</a>, Cloud Engineer
+<h1>Hi, I'm Jones! <br/><a href="https://github.com/Ndzenyuy">Devops Engineer</a>, Cloud Engineer
 
 <h2>👨‍💻 Devops Projects:</h2>
 
